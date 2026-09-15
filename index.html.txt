@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>肌が自ら生まれ変わる力に、着目。エリクセル リバイタエッセンスProの注目成分</title>
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+            color: #4a4643;
+            line-height: 1.8;
+            background-color: #fdfbf9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        }
+        .header-banner {
+            background-color: #2b2621;
+            color: #ffffff;
+            margin: -40px -30px 38px -30px;
+            padding: 40px 30px 34px 30px;
+            text-align: center;
+            border-radius: 10px 10px 0 0;
+            border: 1px solid #b8934c;
+            position: relative;
+        }
+        .header-banner::after {
+            content: "";
+            position: absolute;
+            left: -1px;
+            right: -1px;
+            bottom: -8px;
+            height: 8px;
+            background-color: #b8934c;
+            border-radius: 0 0 4px 4px;
+        }
+        .header-tag {
+            font-size: 9pt;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-bottom: 18px;
+            color: #cda86a;
+            font-weight: bold;
+        }
+        .header-badge {
+            display: inline-block;
+            border: 1px solid #cda86a;
+            color: #cda86a;
+            border-radius: 20px;
+            padding: 6px 20px;
+            font-size: 9pt;
+            letter-spacing: 1px;
+            margin-bottom: 22px;
+        }
+        .header-author {
+            color: #cda86a;
+            font-size: 10pt;
+            font-weight: bold;
+            letter-spacing: 1px;
+            margin-top: 20px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 16pt;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            line-height: 1.5;
+        }
+        .meta-info {
+            text-align: right;
+            font-size: 9.5pt;
+            color: #8c8580;
+            margin-bottom: 20px;
+            padding-bottom: 8px;
+            border-bottom: 1px dashed #e6dfd9;
+        }
+        .intro-section {
+            background-color: #f7f4f0;
+            border-left: 4px solid #bc9b8b;
+            padding: 20px;
+            margin-bottom: 35px;
+            font-size: 10pt;
+            border-radius: 0 4px 4px 0;
+        }
+        h2 {
+            font-size: 13pt;
+            color: #44594d;
+            margin: 35px 0 20px 0;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e6dfd9;
+        }
+        h3 {
+            font-size: 11pt;
+            color: #333333;
+            margin: 25px 0 10px 0;
+            font-weight: bold;
+        }
+        .lead-text {
+            font-size: 11pt;
+            font-weight: bold;
+            color: #bc9b8b;
+            margin-bottom: 20px;
+        }
+        .highlight {
+            background: linear-gradient(transparent 60%, #f5e7df 60%);
+            font-weight: bold;
+        }
+        .script-box {
+            background-color: #fcfaf7;
+            border: 1px solid #ebdcd4;
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 6px;
+            font-size: 10pt;
+        }
+        .script-box p:last-child {
+            margin-bottom: 0;
+        }
+        .conclusion-box {
+            background-color: #f0f4f2;
+            padding: 25px;
+            margin-top: 35px;
+            border-radius: 6px;
+            border: 1px solid #dbe5e1;
+        }
+        .conclusion-box h3 {
+            margin-top: 0;
+            margin-bottom: 15px;
+            color: #44594d;
+            font-size: 12pt;
+            border-left: 3px solid #6e8477;
+            padding-left: 10px;
+        }
+        .conclusion-box p {
+            margin-bottom: 15px;
+        }
+        .conclusion-box p:last-child {
+            margin-bottom: 0;
+        }
+        p {
+            margin: 0 0 15px 0;
+            text-align: justify;
+        }
+        ul {
+            margin: 0 0 20px 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+            font-size: 10pt;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header-banner">
+            <div class="header-tag">ELIXCELL EXPERT COLUMN</div>
+            <div class="header-badge">エリクセル セミナー講師執筆</div>
+            <h1>肌が自ら生まれ変わる力に、着目。<br>エリクセル リバイタエッセンスProの注目成分</h1>
+            <div class="header-author">Executive Adviser　｜　中田さや香</div>
+        </div>
+
+        <div class="meta-info">
+            投稿日時：2026年09月●●日
+        </div>
+
+        <div class="intro-section">
+            <p>「肌が、以前のようには戻ってくれない気がして」</p>
+            <p>年齢を重ねたお客様から、そんな言葉をいただくことがよくありました。ハリや透明感は、外から与えるだけでなく、<strong>肌自身が生まれ変わる力</strong>そのものに働きかけることで、また違った結果につながることがあります。今日は、その視点でつくられた美容液についてお話しします。</p>
+        </div>
+
+        <p class="lead-text">肌の再生力そのものに、まっすぐ働きかける美容液でした。</p>
+
+        <h2>■ ヒト幹細胞培養エキスという発想</h2>
+
+        <p>幹細胞とは、自らを複製し再生する能力を持つ細胞のことです。健康な肌細胞を再生することで、細胞レベルから肌を強力に若返らせることができるとされています。「エリクセル リバイタエッセンスPro」には、このヒト幹細胞培養エキスが配合されています。</p>
+
+        <p>加齢によるシミ・シワ・たるみはもちろん、ダメージを受けた肌の修復にも力を発揮するとされており、肌そのものが持つ<span class="highlight">「再生する力」に着目した処方</span>だといえます。表面的なうるおいだけでなく、肌の土台となる細胞レベルへのアプローチという点が、これまでご紹介してきたローションやクリームとも通じる考え方だと感じています。現場では、丁寧にケアを重ねているのになかなか変化を感じられないという方にほど、こうした細胞レベルからのアプローチをご案内することが多くありました。</p>
+
+        <h2>■ 6つのグロースファクターが、それぞれの役割を担う</h2>
+
+        <p>このエッセンスには、ヒト幹細胞培養エキスに加えて、6つのグロースファクター（成長因子）が新たに配合されています。それぞれが異なる角度から、肌のコンディションに働きかけます。</p>
+
+        <div class="script-box">
+            <p><strong>【配合されているグロースファクターの働き】</strong></p>
+            <p><strong>EGF</strong>：新しい表皮細胞の成長を促し、シワの生成抑制・軽減に働きかけます。</p>
+            <p><strong>aFGF</strong>：コラーゲンとエラスチンの合成を促し、皮膚の弾力アップをサポートします。</p>
+            <p><strong>IGF-1</strong>：皮膚の老化を遅らせ、細胞本来の再生とエイジングケアに働きかけます。</p>
+            <p><strong>KGF-2</strong>：角質細胞の成長を助け、肌荒れの修復をサポートします。</p>
+            <p><strong>VEGF</strong>：血管の生成に関わり、皮膚や毛髪などの組織に栄養を届けやすくします。</p>
+            <p><strong>SOD1</strong>：皮膚老化やシワ、色素沈着の主な要因となる活性酸素を抑制します。</p>
+        </div>
+
+        <p>ひとつの成分に頼るのではなく、複数の角度から肌に働きかける設計になっている点が、このエッセンスの大きな特徴です。再生・弾力・エイジングケア・肌荒れ対応と、それぞれの役割を持つ成分が組み合わさることで、肌全体のコンディションを底上げしていくイメージです。ひとつひとつは小さな働きでも、重なり合うことで大きな土台をつくっていく。まるでチームで肌を支えているような設計だと感じています。</p>
+
+        <h2>■ バイカリンで、肌荒れやくすみにも配慮を</h2>
+
+        <p>さらに配合されているバイカリンには、細胞老化・シミ・シワの主な要因となる活性酸素の抑制、そして肌荒れの防止に働く効果があるとされています。再生を促すケアと並行して、肌のコンディションそのものを穏やかに保つ成分も配合されている点は、日々使い続けるうえで安心材料になります。</p>
+
+        <div class="script-box">
+            <p><strong>【現場で感じていたこと】</strong></p>
+            <p>「肌が生まれ変わる」という感覚は、一度の施術やケアではなかなか実感しにくいものです。けれど、細胞レベルでのアプローチを続けていくことで、ある時ふと肌の底上げを感じられる瞬間が訪れます。目に見える変化の前に、見えないところで着実に働きかけているのだと感じていました。</p>
+        </div>
+
+        <h2>■ 使い方と、新鮮さを保つ工夫</h2>
+
+        <p>使い方は、洗顔・化粧水の後、手のひらに直径3cmくらいを目安に取り、顔全体にすみずみまでていねいになじませます。</p>
+
+        <p>以前のコラムでもお話しした通り、こちらのエッセンスにも業界最先端の真空ボトルが採用されています。ヒト幹細胞やグロースファクターといった、酸化の影響を受けやすい成分だからこそ、最後の1滴まで新鮮な状態で使い続けられる仕組みが、その効果を最大限に引き出すための重要な条件になっています。せっかく複数の角度から働きかける設計になっていても、成分が酸化してしまっては、その良さを十分に感じていただけません。処方と構造、両方が揃って初めて、日々のケアの効果につながっていくのだと思います。</p>
+
+        <div class="conclusion-box">
+            <h3>まとめ：肌の"再生力"に、寄り添うケアを</h3>
+            <p>年齢を重ねた肌の変化は、外から一時的に整えるだけでなく、肌自身が持つ再生する力に働きかけることで、また違ったアプローチが可能になります。ヒト幹細胞培養エキスと6つのグロースファクター、そしてバイカリン。それぞれの役割が組み合わさることで、肌の底上げを目指せる設計になっています。</p>
+            <p>日々のケアの中で、肌自身の力を信じて寄り添っていく。そんな視点を、このエッセンスは思い出させてくれます。</p>
+        </div>
+    </div>
+
+</body>
+</html>
